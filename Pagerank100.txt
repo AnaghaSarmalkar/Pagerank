@@ -1,0 +1,100 @@
+TITLE: France   SCORE: 125.817836693
+TITLE: Category:Living people   SCORE: 87.7923103473
+TITLE: United States    SCORE: 79.9253522354
+TITLE: Wikidata         SCORE: 76.1763082208
+TITLE: Japan    SCORE: 54.1644317054
+TITLE: Category:Articles        SCORE: 35.6456826431
+TITLE: England  SCORE: 33.8742190205
+TITLE: List of Internet top-level domains       SCORE: 28.4354745891
+TITLE: United Kingdom   SCORE: 27.4641780812
+TITLE: Europe   SCORE: 26.7629029626
+TITLE: Germany  SCORE: 26.5582197612
+TITLE: Sweden   SCORE: 26.2452176696
+TITLE: India    SCORE: 23.5130321439
+TITLE: London   SCORE: 23.3782679882
+TITLE: Category:Categories by nationality       SCORE: 22.2409683792
+TITLE: Pakistan         SCORE: 22.0975271061
+TITLE: Australia        SCORE: 20.9962193472
+TITLE: Category:People  SCORE: 19.8053693348
+TITLE: New York City    SCORE: 19.1017165692
+TITLE: Canada   SCORE: 19.063007646
+TITLE: Italy    SCORE: 18.8978870665
+TITLE: California       SCORE: 18.6147563769
+TITLE: Category:American movie actors   SCORE: 18.3257111058
+TITLE: World War II     SCORE: 17.7377664234
+TITLE: Picardie         SCORE: 17.1921524629
+TITLE: Spain    SCORE: 17.1799376439
+TITLE: Category:American television actors      SCORE: 16.9217119985
+TITLE: Russia   SCORE: 16.5684882545
+TITLE: Basse-Normandie  SCORE: 16.0519136462
+TITLE: Animal   SCORE: 15.857691992
+TITLE: Category:European countries      SCORE: 15.571935319
+TITLE: Switzerland      SCORE: 15.5233659784
+TITLE: Category:Administrative regions of France        SCORE: 15.4467303372
+TITLE: Pays de la Loire         SCORE: 14.9937687114
+TITLE: China    SCORE: 14.648589487
+TITLE: Category:Everyday life   SCORE: 14.4947726304
+TITLE: Category:States of the United States     SCORE: 14.2143089593
+TITLE: New York         SCORE: 13.6023372603
+TITLE: Paris    SCORE: 13.4217915078
+TITLE: Wikipedia:WikiProject Check Wikipedia    SCORE: 13.4112785481
+TITLE: Nord-Pas-de-Calais       SCORE: 13.3771531125
+TITLE: Wikimedia Foundation     SCORE: 13.2702615829
+TITLE: Category:Social sciences         SCORE: 13.1792896955
+TITLE: Pas-de-Calais    SCORE: 13.0587817106
+TITLE: Africa   SCORE: 12.0684825652
+TITLE: Scotland         SCORE: 11.8263082757
+TITLE: Brazil   SCORE: 11.6958094225
+TITLE: Los Angeles      SCORE: 11.6141036885
+TITLE: Asia     SCORE: 11.4809459212
+TITLE: Category:Communes in Pas-de-Calais       SCORE: 11.3560201091
+TITLE: Aisne    SCORE: 11.1231262023
+TITLE: Rhône-Alpes      SCORE: 11.0696834021
+TITLE: Category:Science         SCORE: 11.0579810824
+TITLE: Picardy  SCORE: 10.8947184018
+TITLE: Category:2014 deaths     SCORE: 10.6925226803
+TITLE: Islam    SCORE: 10.4710093295
+TITLE: Category:Communes in Aisne       SCORE: 10.3007315021
+TITLE: North America    SCORE: 10.2851019603
+TITLE: Soviet Union     SCORE: 10.2727618014
+TITLE: Pyrénées-Atlantiques     SCORE: 10.2643831869
+TITLE: Category:People by occupation    SCORE: 9.87841553829
+TITLE: Lower Normandy   SCORE: 9.84227773601
+TITLE: Chicago  SCORE: 9.78598896093
+TITLE: Romania  SCORE: 9.76564141335
+TITLE: List of popes    SCORE: 9.68725043778
+TITLE: Atlantic Ocean   SCORE: 9.6042703679
+TITLE: Illinois         SCORE: 9.59304922939
+TITLE: 2006     SCORE: 9.54727945221
+TITLE: Category:Subdivisions of France  SCORE: 9.44092452634
+TITLE: Iran     SCORE: 9.3597014367
+TITLE: Category:Contents        SCORE: 9.18753975686
+TITLE: Catholic Church  SCORE: 9.16114606926
+TITLE: European Union   SCORE: 9.11306337538
+TITLE: Wikipedia        SCORE: 8.99037454077
+TITLE: Netherlands      SCORE: 8.9347311411
+TITLE: Category:Countries by continent  SCORE: 8.91833632809
+TITLE: Aquitaine        SCORE: 8.87253655283
+TITLE: Mexico   SCORE: 8.85418523064
+TITLE: Turkey   SCORE: 8.83612373599
+TITLE: Category:United States   SCORE: 8.82389024837
+TITLE: Category:English language movies         SCORE: 8.7184026275
+TITLE: Category:Biology         SCORE: 8.6907517469
+TITLE: Category:Asian countries         SCORE: 8.60044268349
+TITLE: Category:Categories by country   SCORE: 8.56268577597
+TITLE: Austria  SCORE: 8.53541656602
+TITLE: Category:People by nationality   SCORE: 8.49409123651
+TITLE: Category:Politics        SCORE: 8.46507893302
+TITLE: Category:Entertainment   SCORE: 8.44898859895
+TITLE: Finland  SCORE: 8.44675943852
+TITLE: Category:Communes in Calvados    SCORE: 8.23709735462
+TITLE: Category:Society         SCORE: 8.1421310044
+TITLE: Bangladesh       SCORE: 8.14065668317
+TITLE: Latin    SCORE: 8.01161102017
+TITLE: 2007     SCORE: 7.99263960944
+TITLE: States of the United States      SCORE: 7.97586908302
+TITLE: World War I      SCORE: 7.95919311688
+TITLE: Florida  SCORE: 7.78156278403
+TITLE: Category:Culture         SCORE: 7.72837739248
+TITLE: Washington, D.C.         SCORE: 7.72335997011
+TITLE: Provence-Alpes-Côte d'Azur       SCORE: 7.69790830033
