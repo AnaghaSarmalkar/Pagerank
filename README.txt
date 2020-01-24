@@ -1,5 +1,4 @@
-//Anagha Sarmalkar
-//801077504
+The goal of this programming assignment is to compute the PageRanks of an input set of hyperlinked Wikipedia documents using Spark. The PageRank score of a web page serves as an indicator of the importance of the page. Many web search engines (e.g., Google) use PageRank scores in some form to rank user-submitted queries
 
 Executing PageRankFinal.py on AWS
 
